@@ -1,0 +1,11 @@
+#action,book_id,lender_id,librarian_id,retutn_or_borrow
+create,1,1,2,borrow
+create,2,1,3,borrow
+create,1,1,3,return
+create,4,1,3,borrow
+create,4,1,2,return
+create,3,2,2,borrow
+create,4,1,2,borrow
+create,4,3,1,return
+create,1,1,2,borrow
+create,4,3,2,borrow

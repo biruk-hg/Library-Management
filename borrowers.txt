@@ -1,0 +1,8 @@
+#action,id,name,email,phone
+create,1,alice,alice@gmail.com,(923)-756-3454
+create,2,bob,bob@gmail.com,(923)-753-3451
+update,1,phone,(923)-756-3455
+create,3,carl,carl@gmail.com,(913)-746-3454
+create,4,david,david@gmail.com,(901)-756-3454
+update,2,email,bob@trincoll.edu
+update,4,name,dav

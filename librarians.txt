@@ -1,0 +1,8 @@
+#action,id,name,email,phone
+create,1,nancy,nancy@gmail.com,(911)-756-3454
+create,2,alivia,alivia@gmail.com,(902)-753-3651
+update,1,phone,(993)-756-3455
+create,3,noah,noah@gmail.com,(933)-746-3254
+create,4,david,david@gmail.com,(901)-756-3454
+update,2,email,alivia@trincoll.edu
+update,4,name,Liam

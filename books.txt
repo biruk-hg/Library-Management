@@ -1,0 +1,6 @@
+#action,isbn,title,author,series,available
+create,1-86092-049-7,The Grass is Always Greener,Jeffrey Archer,Modern Times,true
+create,1-86092-012-8,Murder!,Arnold Bennett (1867-1931),Crime,true
+create,1-86092-022-5,An Occurrence at Owl,Ambrose Bierce (1842-1914),Adventure,false
+create,1-86092-010-1,A Boy at Seven,ohn Bidwell,Crime,true
+create,	1-86092-025-x,The Higgler,A. E. Coppard (1878-1957),Adventure,true
